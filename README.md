@@ -1,2 +1,2 @@
-# Sharma-s-Gym-Club
+# Sharma's-Gym-Club
 A Simple gym website using Html and Css only :)
